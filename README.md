@@ -1,6 +1,4 @@
-# fellowship_twitter
-
-This project uses ULMfit model to train the Twitter US Airlines sentiment and predict the airline_sentiment.
+# Project: ULMfit model to train the Twitter US Airlines sentiment and predict the airline_sentiment
 
 Following steps are followed for the same.
 a) The stored input data in google drive is acessed and checked for the percentage of each sentiment (i.e., Positive, Negative and Neutral).
