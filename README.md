@@ -1,6 +1,6 @@
-# Project: ULMfit model to train the Twitter US Airlines sentiment and predict the airline_sentiment
+### Project: ULMfit model to train the Twitter US Airlines sentiment and predict the airline_sentiment
 
-Following steps are followed for the same.
+#### Following steps are followed for the same.
 - The stored input data in google drive is acessed and checked for the percentage of each sentiment (i.e., Positive, Negative and Neutral).
    We found that there are approximately "9178" negative sentiments, "3099" neutral sentiments, and "2363" positive sentiments.
 - The data was shuffled in order to include all types of text in the training and testing phase.
